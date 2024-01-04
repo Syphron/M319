@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwWGPvKuflHtyGGDdTwAMqsGWotKj5jTiGLeB+dDivQWmRwtgaM+BiIe8qb+chsqIRKv9luqaFqLm++zRvSr5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m316.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\J_Ode\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\J_Ode\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
