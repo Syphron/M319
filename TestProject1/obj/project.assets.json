@@ -962,7 +962,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "m316/1.0.0": {
+      "m320/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -970,10 +970,10 @@
           "NUnit3TestAdapter": "4.5.0"
         },
         "compile": {
-          "bin/placeholder/m316.dll": {}
+          "bin/placeholder/m320.dll": {}
         },
         "runtime": {
-          "bin/placeholder/m316.dll": {}
+          "bin/placeholder/m320.dll": {}
         }
       }
     }
@@ -4358,10 +4358,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "m316/1.0.0": {
+    "m320/1.0.0": {
       "type": "project",
-      "path": "../m316/m316.csproj",
-      "msbuildProject": "../m316/m316.csproj"
+      "path": "../m316/m320.csproj",
+      "msbuildProject": "../m316/m320.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4371,7 +4371,7 @@
       "NUnit.Analyzers >= 3.10.0",
       "NUnit3TestAdapter >= 4.5.0",
       "coverlet.collector >= 3.1.2",
-      "m316 >= 1.0.0"
+      "m320 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4406,8 +4406,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m316.csproj": {
-              "projectPath": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m316.csproj"
+            "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m320.csproj": {
+              "projectPath": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m320.csproj"
             }
           }
         }

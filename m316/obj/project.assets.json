@@ -100,9 +100,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m316.csproj",
-      "projectName": "m316",
-      "projectPath": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m316.csproj",
+      "projectUniqueName": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m320.csproj",
+      "projectName": "m320",
+      "projectPath": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\m320.csproj",
       "packagesPath": "C:\\Users\\J_Ode\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\J_Ode\\source\\repos\\m316\\m316\\obj\\",
       "projectStyle": "PackageReference",
